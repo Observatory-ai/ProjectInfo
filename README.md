@@ -10,3 +10,5 @@
 
 ## Some links:
 * Our [Wiki](https://github.com/Observatory-ai/ProjectInfo/wiki)
+* Github project:
+* Weekly Progress Notes: 
