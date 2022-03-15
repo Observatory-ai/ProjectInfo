@@ -9,4 +9,4 @@
  * Gregory Price
 
 ## Some links:
-* Our [Wiki] (https://github.com/Observatory-ai/ProjectInfo/wiki)
+* Our [Wiki](https://github.com/Observatory-ai/ProjectInfo/wiki)
