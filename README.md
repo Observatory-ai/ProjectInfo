@@ -9,6 +9,6 @@
  * Gregory Price
 
 ## Some links:
-* Our wiki: https://github.com/Observatory-ai/ProjectInfo/wiki)
+* Our wiki: https://github.com/Observatory-ai/ProjectInfo/wiki
 * Project board: https://github.com/orgs/Observatory-ai/projects/1
 * Weekly Progress Notes: https://github.com/Observatory-ai/ProjectInfo/wiki/Meeting-Notes
