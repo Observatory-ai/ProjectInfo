@@ -13,3 +13,4 @@
 * Project board: https://github.com/orgs/Observatory-ai/projects/1
 * Weekly Progress Notes: https://github.com/Observatory-ai/ProjectInfo/wiki/Meeting-Notes
 * Old project org: https://github.com/TrafficLightAI
+* Our requirements specifications: https://github.com/Observatory-ai/ProjectInfo/wiki/Requirements 
